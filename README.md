@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Zaywreck
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python,C#
+- 💞️ I’m looking to collaborate on Web-sites,Games
+- 📫 How to reach me mgulle35@gmail.com
